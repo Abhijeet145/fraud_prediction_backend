@@ -1,10 +1,10 @@
-flask==3.0.3
-flask-cors==4.0.1
+flask
+flask-cors
 
-numpy==1.26.4
-joblib==1.4.2
+numpy
+joblib
 
-tensorflow==2.16.1
+tensorflow
 
 # pad_sequences is in keras.preprocessing in TF 2.x
 # so standalone keras is not strictly required, but you can pin it if needed:
